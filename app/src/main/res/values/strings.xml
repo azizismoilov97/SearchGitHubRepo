@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyGitHubRepo</string>
+
+    <string name="network_not_available">Please check the network availability and try again</string>
+    <string name="top">Top</string>
+    <string name="twitterUsername">Not provided</string>
+    <string name="fetch_error">There is an error fetching data Please try after some time</string>
+    <string name="no_data">No data</string>
+    <string name="retry">Retry</string>
+    <string name="not_available">not available</string>
+    <string name="location_default">location not available</string>
+    <string name="name_default">No Name</string>
+    <string name="sign_in">Login</string>
+    <string name="search_repository">Search repository</string>
+
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">Nice to meet you, come join our community! <br><b>Login</b> If you already have a account.</br> <br><b>Registration</b> to get started with the app.</br>
+    </string>
+    <string name="illustrated_image">Illustrated image</string>
+    <string name="btn_registration">Registration</string>
+    <string name="btn_login">Login</string>
+    <string name="login_to_app">Login to app</string>
+    <string name="login_sub_title"><font color="#00C9B8"><b>Login</b></font> if you already have an account
+    </string>
+    <string name="login_email">Your email</string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+    <string name="login_havent_account">I don\'t have an account <font color="#00C908"><b>Registration</b></font></string>
+    <string name="create_an_account">Create an account</string>
+    <string name="register_sub_title"><font color="#00C9B8"><b>Register</b></font> to get strated with the app
+    </string>
+    <string name="your_full_name">Your full name</string>
+    <string name="your_email">Your email</string>
+    <string name="your_username">Your username</string>
+    <string name="your_password">Your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="register_have_account">I already have an account <font color="#00C908"><b>Login</b></font></string>
+    <string name="no_connection">no connection</string>
+</resources>
